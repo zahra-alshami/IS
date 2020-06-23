@@ -54,9 +54,9 @@ namespace E_Library
             //   consumerKey: "",
             //   consumerSecret: "");
 
-            //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            app.UseFacebookAuthentication(
+               appId: "297417141638092",
+               appSecret: "6550bc9176ec99fc83bcac3e65a4cab8");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
